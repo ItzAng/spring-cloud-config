@@ -1,5 +1,6 @@
+server: 
+  port: 8015
 configuracion:
     texto: Configurando ambiente desarrollo
-    autor: Angel Alberto Dauzon Martinez
-    email: angel_barsa05@hotmail.com
-    
+    autor: Angel  dd Alberto Dauzon Martinez
+    email: angel_barsa06@hotmail.com
